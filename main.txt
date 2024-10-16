@@ -1,0 +1,9 @@
+<main>
+<section>education: davangere university</section>
+<section> Projcets:alumni managemant</section>
+<section> Experience:no experience</section>
+<article>my story:</article>
+<a href="https://www.google.com/" target="_main">
+    <img src="https://blog.hubspot.com/hubfs/image8-2.jpg" alt="Google" height="100"></a>
+    
+<div> <p>Hello world</p>
